@@ -59,13 +59,19 @@ SlicerTMS is a 3DSlicer module for patient-specific transcranial stimulation. It
 
 
 
-## Progress and Next Steps
+## Progress
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+- Local LLM successfully integrated. Feasibility of offline AI assistance proven. Direct connection to SlicerTMS established.
+- SlicerTMS Navigation workflow automated. Registration menu interaction reproduced. AI directly drives the Slicer UI.
+- Cookbook architecture implemented. Simple verified tasks translated into strict markdown rules. Zero-hallucination task calling achieved.
 
 
-_No response_
+## Next Steps
+
+- Advanced scene awareness required. Agent must automatically recognize EEG nodes upon stylus contact. 
+- Complex spatial understanding pending. AI agent should be able to auto-correct inaccurate annotations.
+- Local LLMs must be evaluated against cloud models like Claude. Focus on reasoning accuracy and execution speed for targeting tasks.
+- System should be able to process prompts to move specific coils to target nodes (SlicerMCP pipeline design).
 
 
 
